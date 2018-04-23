@@ -2,6 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="26f9e8d9-e057-4340-bdf3-2bbdeccdecee" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/results.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_neo4j_driver_neo4j_java_driver_1_4_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_postgresql_postgresql_42_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/company/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/company/data/Calculate.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/company/data/Neo4jConnector.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/company/data/Neo4jquery.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/company/data/PSQLquery.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/company/data/PostgresqlConnector.java" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/company/Main.java" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
@@ -18,10 +31,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-223">
+            <state relative-caret-position="713">
               <caret line="31" column="29" lean-forward="false" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -136,7 +149,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Neo4jquery.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Neo4jquery.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/company/data/Neo4jquery.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="345">
@@ -326,12 +339,12 @@
       <updated>1524481821247</updated>
       <workItem from="1524481827639" duration="4000" />
       <workItem from="1524482418727" duration="1689000" />
-      <workItem from="1524492503069" duration="20448000" />
+      <workItem from="1524492503069" duration="20763000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22141000" />
+    <option name="totallyTimeSpent" value="22456000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -457,42 +470,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/data/PostgresqlConnector.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="17" lean-forward="true" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        <state relative-caret-position="713">
+          <caret line="31" column="29" lean-forward="false" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/data/Neo4jConnector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" column="50" lean-forward="false" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/data/Neo4jquery.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="15" column="34" lean-forward="true" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/data/Calculate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="644">
-          <caret line="28" column="0" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="28" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#395#403#0" expanded="true" />
+            <element signature="e#458#466#0" expanded="true" />
+            <element signature="e#521#529#0" expanded="true" />
+            <element signature="e#584#592#0" expanded="true" />
+            <element signature="e#647#655#0" expanded="true" />
+            <element signature="method#depthLists1#0;class#Main#0" expanded="false" />
+            <element signature="e#3178#3186#0" expanded="true" />
+            <element signature="method#depthLists2#0;class#Main#0" expanded="false" />
+            <element signature="e#5630#5638#0" expanded="true" />
+            <element signature="method#depthLists3#0;class#Main#0" expanded="false" />
+            <element signature="e#8082#8090#0" expanded="true" />
+            <element signature="method#depthLists4#0;class#Main#0" expanded="false" />
+            <element signature="e#10534#10542#0" expanded="true" />
+            <element signature="method#depthLists5#0;class#Main#0" expanded="false" />
+            <element signature="e#12986#12994#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -550,27 +548,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/data/Calculate.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-223">
-          <caret line="31" column="29" lean-forward="false" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="29" />
+        <state relative-caret-position="644">
+          <caret line="28" column="0" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="28" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#395#403#0" expanded="true" />
-            <element signature="e#458#466#0" expanded="true" />
-            <element signature="e#521#529#0" expanded="true" />
-            <element signature="e#584#592#0" expanded="true" />
-            <element signature="e#647#655#0" expanded="true" />
-            <element signature="method#depthLists1#0;class#Main#0" expanded="false" />
-            <element signature="e#3178#3186#0" expanded="true" />
-            <element signature="method#depthLists2#0;class#Main#0" expanded="false" />
-            <element signature="e#5630#5638#0" expanded="true" />
-            <element signature="method#depthLists3#0;class#Main#0" expanded="false" />
-            <element signature="e#8082#8090#0" expanded="true" />
-            <element signature="method#depthLists4#0;class#Main#0" expanded="false" />
-            <element signature="e#10534#10542#0" expanded="true" />
-            <element signature="method#depthLists5#0;class#Main#0" expanded="false" />
-            <element signature="e#12986#12994#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/data/PostgresqlConnector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="17" lean-forward="true" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/data/Neo4jConnector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="50" lean-forward="false" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/data/Neo4jquery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="34" lean-forward="true" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
