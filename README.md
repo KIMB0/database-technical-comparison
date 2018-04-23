@@ -16,7 +16,7 @@ So this project is based from knowledge on the difference on the two types of da
 
 As said, I didn't managed to get Neo4j to work in Java - but Postgresql works like a charm! Both Neo4j and Postgresql are running on a server at Digital Ocean. 
 
-To run the program, you have to use a IDE to run java projects. The just run the Main class, and you should get execution time for the PSQL queries.
+To run the program, you have to use a IDE to run java projects. Then just run the Main class, and you should get execution time for the PSQL queries.
 
 # Execution Time
 
