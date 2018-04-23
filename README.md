@@ -22,7 +22,7 @@ To run the program, you have to use a IDE to run java projects. The just run the
 
 The results are not very significant due to I haven't gotten measurements for Neo4j, but here is the results of the execution time for PSQL:
 
-![Execution time for PSQL](results.png)
+![Execution time for PSQL](results.PNG)
 
 # Conclusion
 
