@@ -1,5 +1,9 @@
 # About this project
 
+**UPDATE 26-04-2018***
+
+I have destroyed the droplet because the project has been reviewed.
+
 **IMPORTANT READING**
 
 I had a problem with Neo4j which I tried to solve but without any luck. The problem was that I couldn't connect either from the browser or from my Java appclication. BUT what I could do, was connecting to the Neo4j through the CLI without any problems with this command: 
